@@ -1,8 +1,8 @@
 <!-- Banner (switches with GitHub's dark/light theme) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nuremuddassirtanim/NUR-E-MUDDASSIR-TANIM/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nuremuddassirtanim/NUR-E-MUDDASSIR-TANIM/main/light.svg">
-  <img alt="Nure Muddassir Tanim" src="https://raw.githubusercontent.com/nuremuddassirtanim/NUR-E-MUDDASSIR-TANIM/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nuremuddassirtanim/nuremuddassirtanim/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nuremuddassirtanim/nuremuddassirtanim/main/light.svg">
+  <img alt="Nure Muddassir Tanim" src="https://raw.githubusercontent.com/nuremuddassirtanim/nuremuddassirtanim/main/light.svg">
 </picture>
 
 <!-- Stats cards. After Step 3 (your own Vercel instance), replace github-readme-stats.vercel.app with your instance URL -->
@@ -13,16 +13,17 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuremuddassirtanim&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 </div>
 
+<!-- Contribution snake: remove the two comment lines below ONLY after the "Generate Snake Animation" Action has run green once
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nuremuddassirtanim/NUR-E-MUDDASSIR-TANIM/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nuremuddassirtanim/NUR-E-MUDDASSIR-TANIM/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/nuremuddassirtanim/NUR-E-MUDDASSIR-TANIM/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nuremuddassirtanim/nuremuddassirtanim/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nuremuddassirtanim/nuremuddassirtanim/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/nuremuddassirtanim/nuremuddassirtanim/output/github-snake.svg" />
 </picture>
 </div>
+-->
 
-
-<!-- Social badges: replace the YOUR-... parts with your real links -->
+<!-- Social badges: put your Codeforces handle in place of YOUR-HANDLE -->
 <div align="center">
 <a href="https://www.linkedin.com/in/nuremuddassirtanim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;&nbsp;
@@ -32,5 +33,5 @@
 &nbsp;&nbsp;
 <a href="mailto:nur.etanim@gmail.com"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" /></a>
 &nbsp;&nbsp;
-<a href="https://codeforces.com/profile/_tanim"><img src="https://img.shields.io/badge/Codeforces-0A101F?style=for-the-badge&logo=codeforces&logoColor=22D3EE&labelColor=0A101F" alt="Codeforces" /></a>
+<a href="https://codeforces.com/profile/YOUR-HANDLE"><img src="https://img.shields.io/badge/Codeforces-0A101F?style=for-the-badge&logo=codeforces&logoColor=22D3EE&labelColor=0A101F" alt="Codeforces" /></a>
 </div>
