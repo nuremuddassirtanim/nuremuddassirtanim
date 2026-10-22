@@ -1062,8 +1062,8 @@
 <text x="565.6" y="265" font-size="14" fill="#334155" textLength="324.8" lengthAdjust="spacingAndGlyphs">......................................</text>
 <text x="1144" y="265" font-size="14" text-anchor="end" fill="#F8FAFC" textLength="243.6" lengthAdjust="spacingAndGlyphs">VS Code · Git · XAMPP · Figma</text>
 <text x="480" y="302" font-size="14" fill="#22D3EE" textLength="75.6" lengthAdjust="spacingAndGlyphs">Core.Lang</text>
-<text x="565.6" y="302" font-size="14" fill="#334155" textLength="291.2" lengthAdjust="spacingAndGlyphs">..................................</text>
-<text x="1144" y="302" font-size="14" text-anchor="end" fill="#F8FAFC" textLength="277.2" lengthAdjust="spacingAndGlyphs">C · C++ · Java · JavaScript · PHP</text>
+<text x="565.6" y="302" font-size="14" fill="#334155" textLength="249.2" lengthAdjust="spacingAndGlyphs">.............................</text>
+<text x="1144" y="302" font-size="14" text-anchor="end" fill="#F8FAFC" textLength="319.2" lengthAdjust="spacingAndGlyphs">C · C++ · C# · Java · JavaScript · PHP</text>
 <text x="480" y="325" font-size="14" fill="#22D3EE" textLength="109.2" lengthAdjust="spacingAndGlyphs">Core.Frontend</text>
 <text x="599.2" y="325" font-size="14" fill="#334155" textLength="383.6" lengthAdjust="spacingAndGlyphs">.............................................</text>
 <text x="1144" y="325" font-size="14" text-anchor="end" fill="#F8FAFC" textLength="151.2" lengthAdjust="spacingAndGlyphs">HTML · CSS · React</text>
@@ -1077,20 +1077,20 @@
 <text x="574.0" y="394" font-size="14" fill="#334155" textLength="383.6" lengthAdjust="spacingAndGlyphs">.............................................</text>
 <text x="1144" y="394" font-size="14" text-anchor="end" fill="#F8FAFC" textLength="176.4" lengthAdjust="spacingAndGlyphs">Git · GitHub · Vercel</text>
 <text x="480" y="431" font-size="14" fill="#10B981" textLength="75.6" lengthAdjust="spacingAndGlyphs">Grid.Mail</text>
-<text x="565.6" y="431" font-size="14" fill="#334155" textLength="476.0" lengthAdjust="spacingAndGlyphs">........................................................</text>
-<text x="1144" y="431" font-size="14" text-anchor="end" fill="#F8FAFC" textLength="92.4" lengthAdjust="spacingAndGlyphs">coming soon</text>
+<text x="565.6" y="431" font-size="14" fill="#334155" textLength="400.4" lengthAdjust="spacingAndGlyphs">...............................................</text>
+<text x="1144" y="431" font-size="14" text-anchor="end" fill="#F8FAFC" textLength="168.0" lengthAdjust="spacingAndGlyphs">nur.etanim@gmail.com</text>
 <text x="480" y="454" font-size="14" fill="#10B981" textLength="117.6" lengthAdjust="spacingAndGlyphs">Grid.Portfolio</text>
 <text x="607.6" y="454" font-size="14" fill="#334155" textLength="434.0" lengthAdjust="spacingAndGlyphs">...................................................</text>
 <text x="1144" y="454" font-size="14" text-anchor="end" fill="#F8FAFC" textLength="92.4" lengthAdjust="spacingAndGlyphs">coming soon</text>
 <text x="480" y="477" font-size="14" fill="#10B981" textLength="109.2" lengthAdjust="spacingAndGlyphs">Grid.LinkedIn</text>
-<text x="599.2" y="477" font-size="14" fill="#334155" textLength="442.4" lengthAdjust="spacingAndGlyphs">....................................................</text>
-<text x="1144" y="477" font-size="14" text-anchor="end" fill="#F8FAFC" textLength="92.4" lengthAdjust="spacingAndGlyphs">coming soon</text>
+<text x="599.2" y="477" font-size="14" fill="#334155" textLength="358.4" lengthAdjust="spacingAndGlyphs">..........................................</text>
+<text x="1144" y="477" font-size="14" text-anchor="end" fill="#F8FAFC" textLength="176.4" lengthAdjust="spacingAndGlyphs">in/nuremuddassirtanim</text>
 <text x="480" y="500" font-size="14" fill="#10B981" textLength="92.4" lengthAdjust="spacingAndGlyphs">Grid.GitHub</text>
 <text x="582.4" y="500" font-size="14" fill="#334155" textLength="400.4" lengthAdjust="spacingAndGlyphs">...............................................</text>
 <text x="1144" y="500" font-size="14" text-anchor="end" fill="#F8FAFC" textLength="151.2" lengthAdjust="spacingAndGlyphs">nuremuddassirtanim</text>
 <text x="480" y="523" font-size="14" fill="#10B981" textLength="109.2" lengthAdjust="spacingAndGlyphs">Grid.Facebook</text>
-<text x="599.2" y="523" font-size="14" fill="#334155" textLength="442.4" lengthAdjust="spacingAndGlyphs">....................................................</text>
-<text x="1144" y="523" font-size="14" text-anchor="end" fill="#F8FAFC" textLength="92.4" lengthAdjust="spacingAndGlyphs">coming soon</text>
+<text x="599.2" y="523" font-size="14" fill="#334155" textLength="467.6" lengthAdjust="spacingAndGlyphs">.......................................................</text>
+<text x="1144" y="523" font-size="14" text-anchor="end" fill="#F8FAFC" textLength="67.2" lengthAdjust="spacingAndGlyphs">nmtanim4</text>
 <text x="480" y="568" font-size="14" fill="#10B981">$ <tspan fill="#94A3B8">echo "nothing is impossible"</tspan></text>
 <rect x="738.0" y="555" width="9" height="16" fill="#10B981"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></rect>
 </svg>
