@@ -31,7 +31,7 @@
 &nbsp;&nbsp;
 <a href="https://www.facebook.com/nmtanim4"><img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE&labelColor=0A101F" alt="Facebook" /></a>
 &nbsp;&nbsp;
-<a href="mailto:nur.etanim@gmail.COM"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" /></a>
+<a href="mailto:nur.etanim@gmail.com"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" /></a>
 &nbsp;&nbsp;
 <a href="https://codeforces.com/profile/_tanim"><img src="https://img.shields.io/badge/Codeforces-0A101F?style=for-the-badge&logo=codeforces&logoColor=22D3EE&labelColor=0A101F" alt="Codeforces" /></a>
 </div>
