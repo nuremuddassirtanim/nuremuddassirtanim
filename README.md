@@ -16,12 +16,6 @@
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nuremuddassirtanim&theme=tokyonight" alt="top languages by commit" />
 </div>
 
-<!-- Trophies -->
-<h3 align="center">🏆 GitHub Trophies</h3>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nuremuddassirtanim&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="trophies" />
-</div>
-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nuremuddassirtanim/nuremuddassirtanim/output/github-snake-dark.svg" />
