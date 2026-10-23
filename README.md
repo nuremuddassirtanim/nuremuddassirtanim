@@ -5,12 +5,21 @@
   <img alt="Nure Muddassir Tanim" src="https://raw.githubusercontent.com/nuremuddassirtanim/nuremuddassirtanim/main/light.svg">
 </picture>
 
-<!-- Stats cards. After Step 3 (your own Vercel instance), replace github-readme-stats.vercel.app with your instance URL -->
+<!-- Profile summary cards -->
 <div align="center">
-<img width="100%" src="https://streak-stats.demolab.com/?user=nuremuddassirtanim&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&card_width=1180" alt="streak" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nuremuddassirtanim&theme=tokyonight" alt="profile details" />
 <br/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nuremuddassirtanim&show_icons=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuremuddassirtanim&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nuremuddassirtanim&theme=tokyonight" alt="top languages by repo" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nuremuddassirtanim&theme=tokyonight&utcOffset=6" alt="commits by hour" />
+<br/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nuremuddassirtanim&theme=tokyonight" alt="stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nuremuddassirtanim&theme=tokyonight" alt="top languages by commit" />
+</div>
+
+<!-- Trophies -->
+<h3 align="center">🏆 GitHub Trophies</h3>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nuremuddassirtanim&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="trophies" />
 </div>
 
 <div align="center">
